@@ -1,0 +1,80 @@
+Squat
+Description: A lower-body exercise that strengthens the quads, hamstrings, and glutes.
+Instructions: Stand with feet shoulder-width apart, keep your chest up, and squat down by pushing your hips back and bending your knees until your thighs are parallel to the ground. Return to the starting position.
+Target Muscles: Quadriceps, Glutes, Hamstrings, Lower Back
+Push-up
+Description: A bodyweight exercise that works the chest, shoulders, and triceps.
+Instructions: Start in a plank position with your hands shoulder-width apart. Lower your body towards the ground by bending your elbows. Push yourself back up to the starting position.
+Target Muscles: Chest, Shoulders, Triceps, Core
+Deadlift
+Description: A full-body exercise that targets the posterior chain, including the back, glutes, and hamstrings.
+Instructions: Stand with feet hip-width apart, bend at the hips and knees to grip the barbell. Lift the barbell by straightening your hips and knees while keeping your back straight.
+Target Muscles: Hamstrings, Glutes, Lower Back, Traps, Forearms
+Pull-up
+Description: An upper-body exercise that primarily targets the back and biceps.
+Instructions: Hang from a pull-up bar with palms facing away from you. Pull your body up towards the bar until your chin passes over the bar, then lower back down.
+Target Muscles: Latissimus Dorsi, Biceps, Traps, Shoulders
+Plank
+Description: A core exercise that helps to build strength in the abdominal region and shoulders.
+Instructions: Hold your body in a straight line from head to heels with your forearms on the ground. Keep your core engaged and avoid letting your hips sag.
+Target Muscles: Core, Shoulders, Glutes
+Lunges
+Description: A lower-body exercise that targets the quads, glutes, and hamstrings.
+Instructions: Step forward with one leg and lower your hips until both knees are at 90-degree angles. Push off the front foot to return to the starting position, and repeat on the other leg.
+Target Muscles: Quadriceps, Glutes, Hamstrings, Calves
+Bench Press
+Description: A compound exercise that works the chest, shoulders, and triceps.
+Instructions: Lie on a flat bench with a barbell or dumbbells. Lower the weight to your chest and press it back up to the starting position.
+Target Muscles: Chest, Shoulders, Triceps
+Leg Press
+Description: A lower-body exercise that works the quads, glutes, and hamstrings.
+Instructions: Sit on the leg press machine and place your feet shoulder-width apart on the platform. Push the platform upward, extending your legs, then slowly lower the weight back down.
+Target Muscles: Quadriceps, Glutes, Hamstrings
+Bicep Curl
+Description: An isolation exercise that targets the biceps.
+Instructions: Hold a dumbbell in each hand with your arms fully extended. Curl the weights towards your shoulders by bending your elbows, then slowly lower the weights back to the starting position.
+Target Muscles: Biceps
+Tricep Dips
+Description: A bodyweight exercise that targets the triceps.
+Instructions: Place your hands behind you on a bench or chair and lower your body by bending your elbows. Push back up to the starting position.
+Target Muscles: Triceps, Shoulders
+Russian Twists
+Description: A core exercise that targets the obliques.
+Instructions: Sit on the floor with your knees bent and feet off the ground. Hold a weight or medicine ball, and rotate your torso from side to side.
+Target Muscles: Obliques, Core
+Seated Row
+Description: A back exercise that targets the latissimus dorsi, traps, and biceps.
+Instructions: Sit on a row machine with your knees slightly bent. Grab the handles and pull them towards your torso, squeezing your shoulder blades together, then slowly return to the starting position.
+Target Muscles: Latissimus Dorsi, Traps, Biceps, Rear Deltoids
+Mountain Climbers
+Description: A full-body exercise that works the core, shoulders, and legs.
+Instructions: Start in a plank position. Quickly alternate bringing one knee towards your chest while extending the other leg back.
+Target Muscles: Core, Shoulders, Quadriceps, Glutes
+Hip Thrust
+Description: A glute exercise that isolates the hip flexors and glutes.
+Instructions: Sit on the floor with your upper back resting against a bench. Place a barbell across your hips and thrust your hips upward until your knees are at 90 degrees.
+Target Muscles: Glutes, Hamstrings, Core
+Overhead Press
+Description: A shoulder exercise that also works the triceps and upper chest.
+Instructions: Stand with your feet shoulder-width apart and a barbell at shoulder height. Press the barbell overhead until your arms are fully extended, then lower it back down.
+Target Muscles: Shoulders, Triceps, Upper Chest
+Dumbbell Fly
+Description: An isolation exercise for the chest.
+Instructions: Lie on a flat bench holding dumbbells above your chest. Lower the weights outward in a controlled motion until your elbows are at a 90-degree angle, then return to the starting position.
+Target Muscles: Chest, Shoulders
+Cable Lateral Raise
+Description: An isolation exercise targeting the shoulders.
+Instructions: Stand next to a cable machine with the handle in one hand. Raise your arm to the side, keeping a slight bend in your elbow, until it is parallel to the ground, then lower back down.
+Target Muscles: Shoulders (Lateral Deltoid)
+Kettlebell Swing
+Description: A full-body exercise that works the glutes, hamstrings, and core.
+Instructions: Stand with feet shoulder-width apart, holding a kettlebell with both hands. Swing the kettlebell between your legs, then explosively swing it forward and up to shoulder height, keeping your core engaged.
+Target Muscles: Glutes, Hamstrings, Core, Shoulders
+Box Jump
+Description: A plyometric exercise that targets the lower body and improves explosive power.
+Instructions: Stand in front of a sturdy box or platform. Jump onto the box with both feet, landing softly, then step back down.
+Target Muscles: Quadriceps, Glutes, Hamstrings, Calves
+Barbell Rows
+Description: A compound back exercise that targets the lats and upper back.
+Instructions: Bend over at the waist while holding a barbell with an overhand grip. Pull the barbell towards your lower chest, squeezing your shoulder blades together, then lower the weight back down.
+Target Muscles: Latissimus Dorsi, Traps, Biceps, Rear Deltoids
