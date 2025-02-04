@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'rest_framework_simplejwt.token_blacklist',
     'workoutUser.apps.WorkoutUserConfig',
     'workoutExercise.apps.WorkoutExerciseConfig',
+    'workoutTracking.apps.WorkoutTrackingConfig'
 ]
 
 MIDDLEWARE = [
